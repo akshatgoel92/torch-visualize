@@ -1,3 +1,4 @@
 .python-version
 data/
 src/.ipynb_checkpoints
+src/.DS_Store
